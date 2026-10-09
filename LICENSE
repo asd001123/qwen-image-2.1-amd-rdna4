@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-NOTE ON MODEL WEIGHTS
-
-This license applies only to the code in this repository. It does NOT apply to
-the Qwen-Image-2.1 model weights, which this repository downloads but does not
-distribute. Those are released by Alibaba under the Qwen Research License:
-
-    https://huggingface.co/Qwen/Qwen-Image-2.1/blob/main/LICENSE
-
-Review that license before any commercial use of the model or its outputs.

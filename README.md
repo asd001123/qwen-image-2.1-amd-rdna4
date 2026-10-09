@@ -297,7 +297,7 @@ Code: **MIT** — see [LICENSE](LICENSE).
 **Model weights are not covered by MIT.** Qwen-Image-2.1 is released by Alibaba
 under the [Qwen Research License](https://huggingface.co/Qwen/Qwen-Image-2.1/blob/main/LICENSE).
 This repository contains no weights; it only downloads them. Check that license
-before commercial use.
+before commercial use. See [LICENSING.md](LICENSING.md) for details.
 
 ---
 
