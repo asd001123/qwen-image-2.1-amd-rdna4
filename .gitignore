@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# ComfyUI runtime artifacts that must never be committed
+output/
+input/
+temp/
+user/
+models/
+*.safetensors
+*.gguf
+*.ckpt
+*.pth
+
+# Local logs and scratch
+*.log
+*.part
+/tmp/
+
+# Patch backups created by the scripts
+*.gfx1200-bak-*
+*.dspk-bak*
+*.unpatch-bak-*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
